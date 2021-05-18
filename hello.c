@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
 	
 	printf("hello world\n");
 	printf("second hello\n");
+	printf("printf 12class\n");
 	return 0;
 }
 
