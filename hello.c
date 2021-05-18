@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
 {
 	
 	printf("hello world\n");
+	printf("second hello\n");
 	return 0;
 }
 
